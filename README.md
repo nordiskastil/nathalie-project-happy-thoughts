@@ -16,7 +16,7 @@ I would like a animation with more hearts, but this was already a challenge.
 - How to run the project locally
 
 ## View it live
-
+https://nathalies-happy-thoughts.netlify.app/
 
 
 ## Getting Started with the Project
